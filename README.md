@@ -1,63 +1,62 @@
-<p align="center"><a href="https://www.facebook.com/Didar.Einstein12" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/3u5VOaH.jpeg" width="50" style="margin-right: 10px;"></a>
+<img src="https://i.imgur.com/djgN8Dq.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> BADHON -𝗕𝗢𝗧 -BADHON EXIST 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<!-- Github README -->
+
+<p align="center"><img src="https://img.shields.io/badge/I Am BADHON %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/BAYJID-404-BOYZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐃𝐈𝐃𝐀𝐑 𝐀𝐇𝐌𝐄𝐃&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
 </p>
-<h5 align="center">
-🔹MR.DIDAR
-</h5>
-
-## Introduction
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> GOATBOT - Bot Chat Messenger</h1>
-
-<p align="center">
-	<a href="https://nodejs.org/dist/v11.30.0">
-		<img src="https://img.shields.io/badge/Nodejs%20Support-17.ox-brightgreen.svg?style=flat-square" alt="Nodejs Support v17.ox">
-	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ayankhan/AYAN-BOT.svg?style=flat-square&label=size">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
-  <img alt="size" src="https://img.shields.io/badge/license-ATF-green?style=flat-square&color=brightgreen">
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/BAYJID-404-BOYA /count.svg" alt="Visitors">
 </p>
 
-- [📝 **Note**](#-note)
-- [🚧 **Requirement**](#-requirement)
-- [📝 **Tutorial**](#-tutorial)
-- [💡 **How it works?**](#-how-it-works)
-- [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
-- [🆙 **How to Update**](#-how-to-update)
-- [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
-- [💭 **Support**](#-support)
-- [📚 **Support Languages in source code**](#-support-languages-in-source-code)
-- [📌 **Common Problems**](#-common-problems)
-- [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
-- [📸 **Screenshots**](#-screenshots)
-- [✨ **Copyright (C)**](#-copyright-c)
-- [📜 **License**](#-license)
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<div align="center">
-			<h3>My Replit Account ->
-			<a href="https://replit.com/@didar67didar123" style="color: green;">@Einstein42</a>
-				<br>
-	My Facebook Account ->
-	<a href="https://www.facebook.com/Didar.Einstein12" style="color: black;">Didar🚀</a></h3></div>
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-<img align="center" src="https://i.imgur.com/3u5VOaH.jpeg"/>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
+- ➪ 𝗡𝗔𝗠𝗘      : 𝐃𝐈𝐃𝐀𝐑 𝐀𝐇𝐌𝐄𝐃
 
-🔹MR.DIDAR
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
+- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
 
-# Editing DIDAR CHOWDHURY😘
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-# GOATBOT real owner I don’t know
+- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
 
-# Everyone run this GOWTBOTV3 for fun
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-# If there is any error, I will fix it by knocking on Facebook
+- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
 
-# https://www.facebook.com/Didar.Einstein12
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-# I hope you enjoy
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [BADHON EXIST](https://www.facebook.com/Didar.Einstein12)
 
-# THANK YOU
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-# 🚬🚬🚬🚬
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [ERROR](error)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/didar652/DIDAR-BOT-CHAT.git"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://www.facebook.com/Didar.Einstein12"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/alvee.didar"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
